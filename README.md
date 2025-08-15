@@ -1,2 +1,17 @@
-# x96testrepo
-This is test repository for GitHub Actions
+# Repository Info
+
+This repository contains all the effort done by the Technical Documentation Team at Xgrid, relevant to building the Technical Documentation Vertical.
+
+## Introduction
+
+The following repository contains a the documentation for the following list of tasks:
+
+ - [Documentation of Outreach for ICP](docs/outreach.md)
+ - [Documentation for Docs Automation Workflows](docs/rstdoc.md)
+ - Upcoming tasks to be continued...
+
+## [View full guide](docs/index.md)
+
+## [View Live Documentation](https://khanum49.github.io/AI-Doc-course-exercises//)
+
+&copy; Xgrid.co 2025
