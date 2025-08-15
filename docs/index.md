@@ -1,4 +1,4 @@
-# AI Documentation Exercises Portfolio
+# Xgrid's Documentation
 
 Welcome to my Xgrid's collection of documentation  for their efforts on elevating the Technical Writing Vertical.
 
