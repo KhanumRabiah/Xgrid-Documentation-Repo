@@ -12,6 +12,6 @@ The following repository contains a the documentation for the following list of 
 
 ## [View full guide](docs/index.md)
 
-## [View Live Documentation](https://khanum49.github.io/AI-Doc-course-exercises//)
+## [View Live Documentation](https://khanumrabiah.github.io/Xgrid-Documentation-Repo/)
 
 &copy; Xgrid.co 2025
