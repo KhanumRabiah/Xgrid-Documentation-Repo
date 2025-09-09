@@ -8,6 +8,8 @@ Welcome to my Xgrid's collection of documentation  for their efforts on elevatin
 
 2. [Documentation for Docs Automation Workflows](./rstdoc.md)
 
+3. [Sleep Number - Documenting Azure Pipelines](./pipelines.md)
+
 ## Author
 **Rabiah Khanum**  
 Jr. Technical Writer @ Xgrid.co
