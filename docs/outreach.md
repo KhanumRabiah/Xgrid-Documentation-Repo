@@ -30,6 +30,9 @@ A filtered list of potential companies was created using LinkedIn Sales Navigato
 
 * **Result:** This process yielded a targeted list of 176 companies that fit the ideal customer profile.
 
+![Account List](./images/image1.png "Account List")
+
+
 ### Step 3: Lead Identification and Segmentation
 
 From the master account list of 176 companies, two distinct lead lists were generated to tailor the outreach message.
@@ -44,6 +47,8 @@ This search was conducted to see which of the target companies already had dedic
     * For companies with doc teams: The outreach can be positioned as a service to augment or enhance their existing documentation (e.g., API documentation, specific guides).
     * For companies with no visible doc team: The outreach can be positioned as a comprehensive, end-to-end documentation solution.
 
+![Tech Writers Lead List](./images/image2.png "Tech Writers Lead List")
+
 #### B. Product Leaders List
 
 This search was conducted to identify the primary decision-makers and stakeholders in product development.
@@ -52,12 +57,22 @@ This search was conducted to identify the primary decision-makers and stakeholde
 * **Result:** 776 relevant individuals were identified.
 * **Strategy:** These professionals are the primary target for outreach, as they directly experience the challenges of poor documentation (e.g., high support ticket volume, poor user onboarding) and understand its value.
 
+![Product Lead List](./images/image3.png "Product Lead List")
+
 ### Step 4: Execution of Outreach
 
 A controlled and personalized outreach process was initiated.
 
-* **Action:** Connect with 10 targeted individuals (primarily from the Product Leaders list) on LinkedIn daily.
+* **Action:** Connect with 10 targeted individuals from the Product Leaders and Tech Writers lists on LinkedIn daily.
 
-* **Follow-up:** For each person who accepts the connection request, send a personalized, conversational message to start a dialogue about their potential documentation needs. The process then involves awaiting their response to qualify them as a lead.
+* **Follow-up:** For each person who accepts the connection request:
+    
+    **1. For Product Managers:** Send a personalized conversational message to start a dialogue about their potential documentation needs. The process then involves awaiting their response to qualify them as a lead.
+
+    ![Product Lead Msg](./images/image5.png "Product Lead Message")
+
+    **2. For Tech Writers:** Share the targeted Google survey to gather their documentation painpoints and approachs. The process then involves awaiting their response to qualify them as a lead.
+
+    ![Tech Writer Lead Msg](./images/image4.png "Product Lead Message.")
 
 To be Continued...

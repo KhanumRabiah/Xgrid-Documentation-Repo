@@ -8,7 +8,6 @@ The following repository contains a the documentation for the following list of 
 
  - [Documentation of Outreach for ICP](docs/outreach.md)
  - [Documentation for Docs Automation Workflows](docs/rstdoc.md)
- - [Sleep Number - Documenting Azure Pipelines](./pipelines.md)
 
 ## [View full guide](docs/index.md)
 
